@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+    font-family: 'Comfortaa', cursive;
+}
+
+#start, #number_of_objects, #status{
+    font-size: 14px;
+}
+
+#copyright_footer{
+    position: fixed;
+    bottom:0px;
+    width:100%;
+}
+
+#title{
+    margin: 0px;
+    width: 100%;
+    font-size: 30px;
+}
+
+canvas{
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 130px;
+}
